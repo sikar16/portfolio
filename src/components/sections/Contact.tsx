@@ -1,4 +1,4 @@
-import { Mail, MapPin, Phone, Github, Linkedin } from "lucide-react";
+import { Mail, MapPin, Phone } from "lucide-react";
 
 export function Contact() {
     return (
@@ -91,7 +91,7 @@ export function Contact() {
                                 rel="noreferrer"
                                 className="rounded-lg border p-3 transition hover:bg-primary/10"
                             >
-                                <Github size={20} />
+                                {/* <Github size={20} /> */}
                             </a>
 
 
@@ -101,7 +101,7 @@ export function Contact() {
                                 rel="noreferrer"
                                 className="rounded-lg border p-3 transition hover:bg-primary/10"
                             >
-                                <Linkedin size={20} />
+                                {/* <Linkedin size={20} /> */}
                             </a>
 
                         </div>
