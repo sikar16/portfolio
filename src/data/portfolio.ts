@@ -1,4 +1,4 @@
-import avatar from "../assets/profile.jpg";
+import avatar from "../assets/profile.png";
 
 export const profile = {
   name: "Sikar Yosef",
