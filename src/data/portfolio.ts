@@ -45,7 +45,7 @@ export const projects = [
     tech: ["Next.js", "PostgreSQL", "ChromaDB", "Ollama"],
     hue: "from-[#64ffda] to-[#0ea5e9]",
     github:"",
-    sampleImage:""
+    sampleImage:"/files/projects/assistant.png"
 
   },
   {
@@ -73,7 +73,7 @@ export const projects = [
     tech: ["Next.js", "RTK Query", "AfroSMS"],
     hue: "from-[#64ffda] to-[#22d3ee]",
     github:"",
-    sampleImage:""
+    sampleImage:"/files/projects/sms.png"
   },
   {
     name: "Performance Report Generator",
@@ -82,7 +82,7 @@ export const projects = [
     tech: ["React", "Node.js", "Ollama", "PostgreSQL"],
     hue: "from-[#f472b6] to-[#64ffda]",
     github:"",
-    sampleImage:""
+    sampleImage:"/files/projects/performane.png"
   },
   {
     name: "Immunization Monitoring",
