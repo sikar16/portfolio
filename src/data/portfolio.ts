@@ -1,5 +1,5 @@
 // Using public folder path for profile image
-const avatar = "/profile.jpg";
+const avatar = "/profile.png";
 
 export const profile = {
   name: "Sikar Yosef",
@@ -55,7 +55,7 @@ export const projects = [
     tech: ["Flutter", "BLoC", "Clean Architecture"],
     hue: "from-[#38bdf8] to-[#a78bfa]",
     github: "",
-    sampleImage: "/files/projects/trainne_app.jpg",
+    sampleImage: "/files/projects/trainee.png",
   },
   {
     name: "Gheero Web Platform",
