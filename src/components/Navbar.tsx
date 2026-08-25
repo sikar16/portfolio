@@ -6,6 +6,7 @@ const links = [
   ["Skills", "skills"],
   ["Projects", "projects"],
   ["Experience", "experience"],
+  ["Education", "education"],
   ["Services", "services"],
   ["Contact", "contact"],
 ];

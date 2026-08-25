@@ -19,14 +19,7 @@ export function Education() {
                         </div>
                         <span className="text-sm font-medium text-primary">{education.period}</span>
                     </div>
-                    <p className="mt-5 text-sm font-medium text-foreground">Relevant Coursework</p>
-                    <div className="mt-2 flex flex-wrap gap-2">
-                        {education.courses.map((c) => (
-                            <span key={c} className="rounded-full border border-border px-3 py-1 text-xs text-muted-foreground">
-                                {c}
-                            </span>
-                        ))}
-                    </div>
+
                 </div>
             </Reveal>
         </section>

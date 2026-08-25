@@ -83,7 +83,7 @@ export function Hero() {
                     <div className="relative">
                         <div className="absolute inset-0 rounded-2xl bg-primary/30 blur-2xl" />
                         <img
-                            src="/profile.png"
+                            src="/profile.jpg"
                             alt="Sikar Yosef"
                             width={968}
                             height={968}
