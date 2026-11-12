@@ -1,5 +1,5 @@
 // Using public folder path for profile image
-const avatar = "/profile.png";
+const avatar = "/profile.jpeg";
 
 export const profile = {
   name: "Sikar Yosef",
